@@ -6,3 +6,8 @@ El objetivo es aprender a:
 - Gestionar ramas.
 - Realizar Pull Requests.
 - Resolver conflictos de fusión.
+
+## Nueva Característica en Desarrollo
+
+Esta sección se está añadiendo desde la rama `feature/nueva-caracteristica`.
+Aquí se detallarían los cambios de la nueva funcionalidad.
