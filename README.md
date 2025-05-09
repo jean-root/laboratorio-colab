@@ -5,4 +5,4 @@ El objetivo es aprender a:
 - Clonar repositorios.
 - Gestionar ramas.
 - Realizar Pull Requests.
-- Resolver conflictos de fusión.
+- Y también a resolver conflictos de fusión de forma efectiva.
